@@ -1,0 +1,5 @@
+#bash 
+git status
+git add .
+git commit -m "提交内容"
+git push 
